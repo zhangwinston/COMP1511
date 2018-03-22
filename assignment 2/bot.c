@@ -13,7 +13,7 @@
 
 // Function that names the bot
 char *get_bot_name(void) {
-    return "REEEEEEEEEEEEEEEEEEEEEEEE";
+    return "Anthony";
 }
 
 // Function that controls the bot's movement
